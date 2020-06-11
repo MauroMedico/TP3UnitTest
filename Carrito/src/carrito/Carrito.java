@@ -7,5 +7,10 @@ public class Carrito {
   {   
       return monto + (monto*0.21);
   }
+  
+  public static void QuitarProductoCarrito()
+  {
+      
+  }
     
 }
